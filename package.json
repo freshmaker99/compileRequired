@@ -1,0 +1,8 @@
+{
+  "name": "compilerequired",
+  "version": "22.1.0",
+  "description": "",
+  "scripts": {
+    "build": "node builder/run src/ index.js lib/js/main.js"
+  }
+}
